@@ -1,0 +1,27 @@
+ Job_Title,Skill_1,Weight_1,Skill_2,Weight_2,Skill_3,Weight_3,Skill_4,Weight_4,Skill_5,Weight_5
+Java Developer,Java,5,SQL,4,Spring,4,HTML,2,Git,3
+Web Designer,HTML,5,CSS,5,JavaScript,4,Photoshop,3,React,3
+Data Analyst,Python,5,SQL,5,Excel,4,Tableau,3,Statistics,4
+Network Engineer,Cisco,5,Routing,4,Linux,4,Firewalls,4,Python,2
+Android Developer,Java,4,Kotlin,5,XML,3,Android Studio,4,SQLite,3
+Project Manager,Agile,5,Scrum,4,Communication,5,JIRA,3,Budgeting,3
+Frontend Developer,JavaScript,5,React,4,CSS,5,HTML,5,Git,2
+Backend Developer,Python,4,Django,4,SQL,5,API,4,Linux,3
+Data Scientist,Python,5,Machine Learning,5,Statistics,5,SQL,4,Deep Learning,4
+DevOps Engineer,Docker,5,Kubernetes,4,Jenkins,4,Linux,5,AWS,4
+Cybersecurity Analyst,Network Security,5,Python,3,Linux,4,Encryption,4,Cryptography,3
+Software Tester,Selenium,4,Java,3,Manual Testing,5,JIRA,3,SQL,2
+UI Designer,Figma,5,Sketch,4,HTML,3,CSS,3,Communication,2
+Cloud Engineer,AWS,5,Azure,4,Docker,4,Linux,5,Networking,4
+Database Administrator,SQL,5,Oracle,4,Backup,4,Recovery,4,Linux,3
+Python Developer,Python,5,Django,4,SQL,4,API,3,Git,3
+ML Engineer,Python  ,5,Machine Learning ,5,TensorFlow ,4,Data Preprocessing,4,Deep Learning,3
+Full Stack Developer,JavaScript,5,React      ,4, Node.js,4,SQL  ,3,REST API ,4
+AI Engineer,Python,5,Deep Learning,5,NLP   ,4,TensorFlow  ,4,Data Science ,3
+Mobile App Developer,Dart,5,Flutter ,5,Firebase  ,4,REST API   ,3,UI Design  ,3
+Game Developer,Unity  ,5,C#   ,5,Game Design,4,Physics,3,Animation ,3
+BlockChain Developer,Solidity ,5,Ethereum  ,5,Smart Contracts,4,Web3,4,Cryptography ,3
+Data Engineer,SQL    ,5, Python ,4,ETL ,5,Hadoop ,4,Spark,4
+System Administrator, Linux    ,5,Networking ,4,Shell Scripting ,4,Security   ,3,Monitoring ,3
+Business Analyst,Excel   ,5,SQL  ,4,Communication ,5,Data Analysis,4,Power BI ,3
+Embedded Engineer,C ,5,Microcontrollers,5,Embedded C ,4,Electronics,4,RTOS ,3

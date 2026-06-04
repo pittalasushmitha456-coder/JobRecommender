@@ -1,18 +1,18 @@
-#🎯 Skill Based Job Recommendation System
+# 🎯 Skill Based Job Recommendation System
 
-##📖 Project Overview
+## 📖 Project Overview
 
 The Skill Based Job Recommendation System is a Java Swing desktop application that recommends suitable job roles based on a user's skills. The system compares user-selected skills with predefined job requirements and calculates a matching score to identify the most suitable career options.
 
 ---
 
-##❓ Problem Statement
+## ❓ Problem Statement
 
 Students often possess multiple technical skills but may not know which job roles best match their skill set. This project helps users identify relevant career opportunities by evaluating their skills against different job profiles.
 
 ---
 
-##✨ Features
+## ✨ Features
 
 ✅ Skill-based job recommendations
 
@@ -30,7 +30,7 @@ Students often possess multiple technical skills but may not know which job role
 
 ---
 
-##🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 - ☕ Java
 - 🖥️ Java Swing
@@ -41,7 +41,7 @@ Students often possess multiple technical skills but may not know which job role
 
 ---
 
-##⚙️ Working of the System
+## ⚙️ Working of the System
 
 Step 1️⃣
 
@@ -69,7 +69,7 @@ Job roles with higher scores are recommended to the user.
 
 ---
 
-##🧠 Skill Weighting Logic
+## 🧠 Skill Weighting Logic
 
 The recommendation system uses Weighted Skill Matching.
 
@@ -102,7 +102,7 @@ The job roles with the highest matching scores are displayed as recommendations.
 
 ---
 
-##🏗️ Project Modules
+## 🏗️ Project Modules
 
 🎨 User Interface Module
 
@@ -126,7 +126,7 @@ Shows comparison graphs and performance results.
 
 ---
 
-##🌟 Advantages
+## 🌟 Advantages
 
 ✔️ Easy to use
 
@@ -140,7 +140,7 @@ Shows comparison graphs and performance results.
 
 ---
 
-##🚀 Future Enhancements
+## 🚀 Future Enhancements
 
 - 🌐 Web-based version
 - 📚 Larger job database
@@ -150,7 +150,7 @@ Shows comparison graphs and performance results.
 
 ---
 
-##👩‍💻 Author
+## 👩‍💻 Author
 
 Sushmitha Pittala
 

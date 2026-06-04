@@ -73,14 +73,14 @@ Job roles with higher scores are recommended to the user.
 
 The recommendation system uses Weighted Skill Matching.
 
-Example: Java Developer
+### Example: Java Developer
 
 Skill| Weight
- Java| ⭐⭐⭐⭐⭐ (5)
- OOP| ⭐⭐⭐⭐⭐ (5)
- SQL| ⭐⭐⭐⭐ (4)
- Git| ⭐⭐⭐ (3)
- HTML| ⭐⭐ (2)
+- Java ⭐⭐⭐⭐⭐ (5)
+- OOP ⭐⭐⭐⭐⭐ (5)
+- SQL ⭐⭐⭐⭐ (4)
+- Git ⭐⭐⭐ (3)
+- HTML ⭐⭐ (2)
 
 Example Calculation
 
